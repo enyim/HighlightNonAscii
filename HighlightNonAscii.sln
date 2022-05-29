@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighlightNonAscii", "HighlightNonAscii\HighlightNonAscii.csproj", "{32ECE961-F594-46EF-8922-588CC18EA929}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64CEA342-BF64-436E-8D62-9CD6B3E713D9}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32ECE961-F594-46EF-8922-588CC18EA929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32ECE961-F594-46EF-8922-588CC18EA929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32ECE961-F594-46EF-8922-588CC18EA929}.Debug|x86.ActiveCfg = Debug|x86
+		{32ECE961-F594-46EF-8922-588CC18EA929}.Debug|x86.Build.0 = Debug|x86
+		{32ECE961-F594-46EF-8922-588CC18EA929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32ECE961-F594-46EF-8922-588CC18EA929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32ECE961-F594-46EF-8922-588CC18EA929}.Release|x86.ActiveCfg = Release|x86
+		{32ECE961-F594-46EF-8922-588CC18EA929}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A550F327-D73E-4ACA-8C08-8EB1395C1B75}
+	EndGlobalSection
+EndGlobal
